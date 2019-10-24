@@ -151,11 +151,11 @@ experience:
     - name: Applied Information Sicence
       title: Software Engineer
       time: March 2016 - Present
-      summary: Developing UIs with AngularJS, a Javascript MVW framework
+      summary: Leading user experience for developers and desiging web applications with Angular, React/Redux and Node. 
     - name: Riverside Research
       title : Software Developer
       time: September 2013 - February 2016
-      summary: Developing interactive dynamic web pages using Jquery, Perl, and an Oracle DB. Researching development issues, providing multiple solutions and implementing a solution in a team. Maintaining metrics and statics of an Oracle DB.
+      summary: Developed interactive dynamic web pages using Jquery, Perl, and an Oracle DB. Researched development issues, provided multiple solutions and implemented a solution in a team. Maintained metrics and statics of an Oracle DB.
     - name: Science Applications International Corporation
       title: Software Engineer
       time: September 2010 - September 2013
@@ -175,8 +175,9 @@ experience:
 
 skills:
     - name: JavaScript
-    - name: AngularJS
-    - name: NodeJS
+    - name: React and Redux
+    - name: Angular
+    - name: Node
     - name: Ruby and Ruby on Rails
     - name: Python and Django
     - name: Git
@@ -204,10 +205,10 @@ education:
       time: June 2011
 
 volunteer:
-    - group: Girl Develop It Dayton Chapter
+    - group: Girl Develop It Dayton Chapter (Dayton Women Code Together)
       title: Chapter Co-Lead
-      time: August 2015 - Present
-      summary: Girl Develop It is a nonprofit organization that provides affordable programs for adult women interested in learning web and software development in a judgment-free environment.
+      time: August 2015 - January 2019
+      summary: Girl Develop It is a nonprofit organization that provides affordable programs for adult women interested in learning web and software development in a judgment-free environment. The Dayton Chapter is now known as Dayton Women Code Together (https://www.meetup.com/Dayton-Code-Together/)
 
 ###########
 # Courses #
@@ -231,8 +232,8 @@ email: "kcjonesevans@gmail.com"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://www.facebook.com/jones.katherine"
+  - title: "envelope"
+    url: "mailto:kcjonesevans@gmail.com"
   - title: "twitter"
     url: "https://twitter.com/kcjonesevans"
   - title: "github"
@@ -241,8 +242,6 @@ social:
     url: "https://www.linkedin.com/in/kcjonesevans"
   - title: "instagram"
     url: "https://www.instagram.com/kcjonesevans/"
-  - title: "google-plus"
-    url: "https://plus.google.com/u/0/118005383095645823729/posts/p/pub"
 
 ############
 # 404 page #
@@ -260,8 +259,6 @@ pages_list:
   About: 'about'
   Resume: 'resume'
   Contact: 'contact'
-  Classes : 'class'
-  #Timeline: 'timeline'
 
 
 
